@@ -7,7 +7,7 @@ This repository is created as part of the Git Mastery Challenge. The purpose of 
 
 To start the Git Mastery Challenge, follow the instructions provided in this repository. Each task will be outlined in separate files along with clear instructions. Feel free to explore the repository, complete the tasks, and trackyour progress.
 
-## Contributions
+
 
 Contributions to this repository are welcome. If you have any ideas for new tasks or improvements, feel free to submit a pull request. Let's learn and master Git together!
 

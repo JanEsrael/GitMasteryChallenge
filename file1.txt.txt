@@ -1,0 +1,4 @@
+git add file1.txt
+```
+
+This command stages the `file1.txt` for the next commit.
