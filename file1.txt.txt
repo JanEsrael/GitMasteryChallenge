@@ -1,0 +1,38 @@
+git add file1.txt
+```
+
+This command stages the `file1.txt` for the next commit.
+// Make additional changes to the project files
+
+
+
+// Continue making changes
+
+git add .
+git commit -m "Update documentation"
+```
+deleted 
+git add .
+git commit -m "Implement new feature XYZ"
+
+// Make more changes or fixes
+git add .
+git commit -m "Fix bug ABC"
+// Make more changes or fixes
+git add .
+git commit -m "Fix bug ABC"
+// Make additional changes to the project files
+
+git add .
+git commit -m "Implement new feature XYZ"
+
+// Make more changes or fixes
+
+git add .
+git commit -m "Fix bug ABC"
+
+// Continue making changes
+
+git add .
+git commit -m "Update documentation"
+```
