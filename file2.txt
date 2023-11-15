@@ -25,4 +25,3 @@ Yes, to make a commit in the "pull-request-branch," you can create another file 
 
 5. Repeat steps 2-4 as necessary to create additional files or make further changes and commits in the "pull-request-branch."
 
-Remember to stage and commit your changes each time you want to add them to the branch.
