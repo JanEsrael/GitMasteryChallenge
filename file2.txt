@@ -26,7 +26,8 @@ Yes, to make a commit in the "pull-request-branch," you can create another file 
 5. Repeat steps 2-4 as necessary to create additional files or make further changes and commits in the "pull-request-branch."
  git commit -m "Added file.txt and modified read.md"
 ```
-
+5. Repeat eps 2-4 as necessary to create additional files or make further changes and commits in the "pull-request-branch."
+ git commit -m "Added file.txt and modified read.md"
     "Fixes #123"
     "Closes #123"
     "Resolves #123"
