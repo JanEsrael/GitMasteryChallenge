@@ -1,0 +1,28 @@
+Yes, to make a commit in the "pull-request-branch," you can create another file in your repository and then add and commit the new file. Here's a step-by-step guide:
+
+1. Make sure you are on the "pull-request-branch" by running the command:
+   ````
+   git branch
+   ```
+   Verify that the "pull-request-branch" is listed and has an asterisk (*) next to it, indicating that it is the currently active branch. If not, switch to the branch using the command:
+   ````
+   git checkout pull-request-branch
+   ```
+
+2. Create a new file in your project's directory or make changes to an existing file. You can use your preferred text editor or IDE to create the file.
+
+3. Once you have created or modified the file, stage it to be included in the commit by running the command:
+   ````
+   git add <filename>
+   ```
+   Replace `<filename>` with the actual name of the file you created or modified.
+
+4. Commit the staged changes by running the command:
+   ````
+   git commit -m "Your commit message here"
+   ```
+   Replace "Your commit message here" with a descriptive message that summarizes the changes introduced by the commit.
+
+5. Repeat steps 2-4 as necessary to create additional files or make further changes and commits in the "pull-request-branch."
+
+Remember to stage and commit your changes each time you want to add them to the branch.
